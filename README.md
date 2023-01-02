@@ -1,4 +1,4 @@
-### Olá, eu sou o Sidney Rafael estou cursando ADS, praticando com vários projetos, utilizando HTML | CSS | JS | React, e com objetivo de se tornar Dev. FullStack👋
+### Olá, eu sou o Sidney Rafael estou cursando ADS, praticando com vários projetos, utilizando HTML | CSS | JS | React 
 
 - 🌱 Atualmente estou aprendendo: HTML | CSS | JS | React
 - 📫 Pode me encontrar em: sidneyrafael191@gmail.com  
