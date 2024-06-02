@@ -1,4 +1,4 @@
-### Olá, eu sou o Sidney Rafael estou cursando ADS, praticando com vários projetos, utilizando HTML | CSS | JS | React 
+### Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC de Mogi Mirim, com uma forte paixão por programação e desenvolvimento de software. Tenho experiência em diversas linguagens de programação, incluindo C, JavaScript e Python, bem como em bancos de dados MySQL. Meu objetivo é aplicar meu conhecimento técnico e minhas habilidades analíticas para contribuir com projetos inovadores e desafiadores.
 
 - 🌱 Atualmente estou aprendendo: HTML | CSS | JS | React
 - 📫 Pode me encontrar em: sidneyrafael191@gmail.com  
